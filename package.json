@@ -13,6 +13,7 @@
     "@remix-run/react": "^1.7.5",
     "cross-env": "^7.0.3",
     "firebase": "^9.14.0",
+    "firebase-admin": "^11.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
